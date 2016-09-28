@@ -19,5 +19,6 @@ public class Unir5CadenasDeTexto {
 		
 		}
 		System.out.println("Su cadena final es "+cadenaFinal);
+		System.out.println("GitHub");
 	}
 }
